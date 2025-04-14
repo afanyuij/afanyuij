@@ -1,4 +1,4 @@
-# 🚀 **Nguyen Josiah**  
+# 🚀 **Ngeyen Josiah**  
 💻 **Software Developer | Forex Trader**  
 
 🔹 **Tech Stack**: JavaScript | PHP | Python | React | Tailwind CSS  
