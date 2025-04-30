@@ -14,8 +14,8 @@ Passionate software programmer with expertise in front-end and back-end developm
 ## 🛠️ **Projects & Repositories**  
 Here are some of my top projects:  
 - 🏗️ [**LearnSphere(LMS)**](https://github.com/afanyuij/LearnSphere-) - learning management system with full stack MERN  
-- 🔢 [**react_calculator**](https://github.com/afanyuj/react_calculator) - Basic calculator using React  
-- 🔑 [**react_login_repo**](https://github.com/afanyuj/react_login_repo) - Login form using useState  
+- 🔢 [**UScenelt**](https://github.com/afanyuij/uscenelt) - Movie website built with react + nodejs + expressjs  
+- 🔑 [**ItemTracer**](https://github.com/afanyuij/item-tracer-repo) - website aimed at finding lost items  
 - 🛒 [**Crud-react**](https://github.com/afanyuj/Crud-react) - Simple CRUD operations in React  
 
 ---
