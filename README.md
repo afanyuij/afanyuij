@@ -13,7 +13,7 @@ Passionate software programmer with expertise in front-end and back-end developm
 
 ## 🛠️ **Projects & Repositories**  
 Here are some of my top projects:  
-- 🏗️ [**react-fb**](https://github.com/afanyuj/react-fb) - Simple Facebook frontend clone with React & Tailwind CSS  
+- 🏗️ [**LearnSphere(LMS)**](https://github.com/afanyuij/LearnSphere-) - learning management system with full stack MERN  
 - 🔢 [**react_calculator**](https://github.com/afanyuj/react_calculator) - Basic calculator using React  
 - 🔑 [**react_login_repo**](https://github.com/afanyuj/react_login_repo) - Login form using useState  
 - 🛒 [**Crud-react**](https://github.com/afanyuj/Crud-react) - Simple CRUD operations in React  
