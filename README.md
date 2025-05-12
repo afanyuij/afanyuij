@@ -21,8 +21,8 @@ Here are some of my top projects:
 ---
 
 ## 📊 **GitHub Stats**  
-![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=afanyuj&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afanyuj&layout=compact&theme=dark)  
+![Ngeyens GitHub stats](https://github-readme-stats.vercel.app/api?username=afanyuij&show_icons=true&theme=radical)
+ 
 
 ---
 
