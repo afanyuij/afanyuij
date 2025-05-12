@@ -22,7 +22,7 @@ Here are some of my top projects:
 
 ## 📊 **GitHub Stats**  
 ![Ngeyens GitHub stats](https://github-readme-stats.vercel.app/api?username=afanyuij&show_icons=true&theme=radical)
-![Language Usage Graph](https://github-readme-stats.vercel.app/api/wakatime?username=afanyuij&layout=compact&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afanyuij&layout=compact&langs_count=10&theme=radical)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
